@@ -1,8 +1,8 @@
 {
   "labId": "yang_devnet-format_part2",
-  "title": "NETCONF/YANG on Nexus: Part 2",
+  "title": "NETCONF/YANG on Nexus Part 2: Configuring BGP with the Cisco NXOS YANG Model",
   "slug": "Configuring BGP with the Cisco NXOS YANG Model.",
-  "time": "30",
+  "time": "20",
   "tags": [
     {"title": "BGP"},
     {"title": "NETCONF"},
@@ -13,17 +13,18 @@
     {"title": "Data Center"}
   ],
   "files": [
-    {"title": "1.md"},
-    {"title": "2.md"},
-    {"title": "3.md"},
-    {"title": "4.md"},
-    {"title": "5.md"},
-    {"title": "6.md"}
+    {"title": "Introduction", "file": "1.md"},
+    {"title": "Exploring the BGP NXOS YANG model", "file": "4.md"},
+    {"title": "Collecting the ASN and BGP Router ID", "file": "5.md"},
+    {"title": "Advertise Subnets over BGP", "file": "6.md"},
+    {"title": "Summary", "file": "summary.md"}
   ],
   "related": [
     {
       "labId": "yang_devnet-format_part1",
-      "title": "NETCONF/YANG on Nexus: Part 1",
+      "title": "NETCONF/YANG on Nexus Part 1: Learning to use the Cisco NX-OS YANG Model"
+    },
+    {
       "labId": "yang_devnet-format_part3",
       "title": "NETCONF/YANG on Nexus: Part 3"
     }
@@ -31,6 +32,6 @@
   "authors": [
     {"name": "Hank Preston", "email": "hapresto@cisco.com"}
   ],
-  "active": false,
+  "active": true,
   "byod": true
 }
