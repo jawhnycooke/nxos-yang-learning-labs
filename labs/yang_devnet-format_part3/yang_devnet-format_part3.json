@@ -1,6 +1,6 @@
 {
   "labId": "yang_devnet-format_part3",
-  "title": "NETCONF/YANG on Nexus: Part 3",
+  "title": "NETCONF/YANG on Nexus Part 3: Using OpenConfig YANG Models on Nexus Switches",
   "slug": "Using OpenConfig YANG Models on Nexus Switches.",
   "time": "30",
   "tags": [
@@ -13,22 +13,24 @@
     {"title": "Data Center"}
   ],
   "files": [
-    {"title": "1.md"},
-    {"title": "2.md"},
-    {"title": "3.md"},
-    {"title": "4.md"}
+    {"title": "Introduction", "file": "1.md"},
+    {"title": "Exploring OpenConfig YANG Models on Nexus", "file": "2.md"},
+    {"title": "Using OpenConfig to add Loopback interfaces", "file": "3.md"},
+    {"title": "Summary", "file": "summary"}
   ],
   "related": [
     {
       "labId": "yang_devnet-format_part1",
-      "title": "NETCONF/YANG on Nexus: Part 1",
+      "title": "NETCONF/YANG on Nexus Part 1: Learning to use the Cisco NX-OS YANG Model"
+    },
+    {
       "labId": "yang_devnet-format_part2",
-      "title": "NETCONF/YANG on Nexus: Part 2"
+      "title": "NETCONF/YANG on Nexus Part 2: Configuring BGP with the Cisco NXOS YANG Model"
     }
   ],
   "authors": [
     {"name": "Hank Preston", "email": "hapresto@cisco.com"}
   ],
-  "active": false,
+  "active": true,
   "byod": true
 }
