@@ -16,7 +16,7 @@
     {"title": "Introduction", "file": "1.md"},
     {"title": "Exploring OpenConfig YANG Models on Nexus", "file": "2.md"},
     {"title": "Using OpenConfig to add Loopback interfaces", "file": "3.md"},
-    {"title": "Summary", "file": "summary"}
+    {"title": "Summary", "file": "summary.md"}
   ],
   "related": [
     {
