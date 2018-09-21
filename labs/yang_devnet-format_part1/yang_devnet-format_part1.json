@@ -1,7 +1,7 @@
 {
   "labId": "yang_devnet-format_part1",
-  "title": "NETCONF/YANG on Nexus: Part 1",
-  "slug": "Learning to use the Cisco NXOS YANG Model.",
+  "title": "NETCONF/YANG on Nexus Part 1: Learning to use the Cisco NX-OS YANG Model",
+  "slug": "Learning to use the Cisco NX-OS YANG Model.",
   "time": "20",
   "tags": [
     {"title": "NETCONF"},
