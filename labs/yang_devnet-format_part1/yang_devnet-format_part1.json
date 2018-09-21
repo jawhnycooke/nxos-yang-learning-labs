@@ -24,11 +24,11 @@
   "related": [
     {
       "labId": "yang_devnet-format_part2",
-      "title": "NETCONF/YANG on Nexus: Part 2"
+      "title": "NETCONF/YANG on Nexus Part 2: Configuring BGP with the Cisco NXOS YANG Model"
     },
     {
       "labId": "yang_devnet-format_part3",
-      "title": "NETCONF/YANG on Nexus: Part 3"
+      "title": "NETCONF/YANG on Nexus Part 3: Using OpenConfig YANG Models on Nexus Switches"
     }
   ],
   "authors": [
