@@ -2,7 +2,7 @@
 
 These self-paced interactive tutorials provide instructions for developers to use NXOS Yang.
 
-We write these labs for display within the [Cisco DevNet Learning Labs system](https://learninglabs.cisco.com).
+We write these labs for display within the [Cisco DevNet Learning Labs system](https://developer.cisco.com/learning).
 
 Contributions are welcome, and we are glad to review changes through pull requests. See [contributing.md](contributing.md) for details.
 
@@ -72,7 +72,7 @@ You can validate a JSON file by using the [online formatter and validator](https
 
 These self-paced interactive tutorials provide instructions for developers to automate the process of device instantiation for Nexus switches.
 
-Labs are written to be displayed within the [Cisco DevNet Learning Labs system](https://learninglabs.cisco.com).
+Labs are written to be displayed within the [Cisco DevNet Learning Labs system](https://developer.cisco.com/learning).
 
 Contributions are welcome, and we are glad to review changes through pull requests. See [contributing.md](contributing.md) for details.
 
